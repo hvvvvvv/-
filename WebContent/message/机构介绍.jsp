@@ -1,0 +1,32 @@
+<%@ page language="java" contentType="text/html; charset=gb2312"
+    pageEncoding="utf-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h3>机构设置</h3>
+<br>
+<h3>计算机基础教学部</h3>
+<br>
+<h3>水利大数据研究所</h3>
+<br>
+<h3>领域软件应用技术研究所</h3>
+<br>
+<h3>云计算与软件新技术研究所</h3>
+<br>
+<h3>分布式计算与系统研究所</h3>
+<br>
+<h3>无线通信与智能系统研究所</h3>
+<br>
+<h3>遥测系统与通信网络研究所</h3>
+<br>
+<h3>多维信号处理与感知系统研究所</h3>
+<br>
+<h3>信息认知与智能系统研究所</h3>
+<br>
+<h3>探测与信息融合研究所</h3>
+<br>
+<h3>计算机与信息实验中心</h3>
+</body>
+</html>
